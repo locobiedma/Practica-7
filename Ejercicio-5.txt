@@ -1,0 +1,5 @@
+En principio no sería posible, ya que "testea" y "es experto" son dos relaciones separadas entre "Avión" y "Técnicos" y no se podrían juntar.
+
+Quizá mediante una agregación sí que sería posible, pero no estoy seguro de ello.
+
+

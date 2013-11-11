@@ -1,0 +1,7 @@
+2) El cambio sería cambiar "precio" como atributo de "medicamento" en lugar de estar vinculado a la relación "vende".
+
+3) "Receta" tendría que ser una entidad nueva con sus propios atributos (fecha, cantidad) y relacionar esta nueva entidad con la relación "Receta"
+
+
+
+
